@@ -1,0 +1,43 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #f7f7f4;
+  color: #1f2937;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrap {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 48px 24px 64px;
+}
+
+h1 {
+  margin: 0 0 16px;
+  font-size: 2rem;
+  line-height: 1.1;
+}
+
+p, li {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+nav {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 24px;
+}
+
+a {
+  color: #0f766e;
+}
+
+.crumb {
+  margin: 0 0 12px;
+}
+
+ul {
+  padding-left: 20px;
+}
