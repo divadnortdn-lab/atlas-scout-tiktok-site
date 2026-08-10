@@ -18,6 +18,18 @@ h1 {
   line-height: 1.1;
 }
 
+h2 {
+  margin: 32px 0 8px;
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
+
+.effective {
+  margin: 0 0 24px;
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
 p, li {
   font-size: 1rem;
   line-height: 1.6;
